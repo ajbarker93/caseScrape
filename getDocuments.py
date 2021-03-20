@@ -37,4 +37,4 @@ with open("listOfIDs.txt", 'r') as IDlist:
             for block in r.iter_content(1024):
                 f.write(block)
         print("request complete, see %s"%(filename))
-        sleep(100)
+        sleep(0.2)
