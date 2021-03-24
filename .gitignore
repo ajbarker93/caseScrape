@@ -3,4 +3,4 @@ docToText2/*
 documents/*
 summaries/*
 results*
-.ip*
+.ipynb_checkpoints/*
