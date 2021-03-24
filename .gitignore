@@ -4,6 +4,7 @@ documents/*
 summaries/*
 results*
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 .
 ..
 .*
