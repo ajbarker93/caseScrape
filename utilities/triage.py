@@ -68,4 +68,4 @@ for id in results['case_id'].to_list():
     print('No txt file for ',id)
 
 print(len(results))
-results.to_pickle("./results.pkl")
+results.to_pickle("./results0.pkl")
